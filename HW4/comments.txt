@@ -1,1 +1,1 @@
-## Сервис-образец для курсовой работы - Reddit (https://www.reddit.com/)
+Сервис-образец для курсовой работы - Reddit (https://www.reddit.com/)
